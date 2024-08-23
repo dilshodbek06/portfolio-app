@@ -19,7 +19,9 @@ const Home = () => {
               1000,
               "I'm a Frontend Mentor",
               1000,
-              "I'm a Frontend Developer",
+              "I'm a  Backend Developer",
+              1000,
+              "I'm a Backend Developer",
               1000,
             ]}
             speed={50}

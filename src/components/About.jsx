@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-10">
-          Hi, I'm Dilshodbek Ziyodulloyev, a Full stack developer. I love
+          Hi, I'm Firstname Lastname, a Full stack developer. I love
           creating useful websites that help people.
         </p>
         <br />
